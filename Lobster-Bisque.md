@@ -1,27 +1,41 @@
 # Lobster Bisque
+- [Ingredients](#ingredients)
+- [Preparation](#preparation)
+- [Cooking](#cooking)
 
-## Fat
- - 9 TBSP Butter
+Serves 8
 
-## Meat
-- 6 Tails
+## Ingredients
+### Meat
+- 1<i>lb</i> Claw Meat
 
-## Fluid
-- 32oz Stock
-- 2 Cup Heavy Cream
-- 1/4 Cup Brandy
-- 1 Cup White Wine
-- 3 Cup Sherry
+### Fat
+- 9 <i>TBSP</i> Butter
+- 3 <i>TBSP</i> Olive Oil
 
-## Vegetables
-- 1 Cup Carrot Finely Chopped (9 Carrtots)
-- 1 Cup Celery (9 Stalks)
-- 1 Cup Onion (2 Onions)
+### Vegetables
+- 3 <i>Cup</i> Carrot Finely Chopped (~9 Carrots)
+- 3 <i>Cup</i> Celery (~9 Stalks)
+- 1 Yellow Onion
 - 8 Cloves Garlic
-- 8oz Tomato Paste
+- 8<i>oz</i> Tomato Paste
 
-## Spices
-- 9 tbsp Flour
-- 3 tsp Paprika
-- 1 tsp cayenne
-- 6 bay leaves
+### Fluid
+- 16<i>oz</i> Chicken Stock
+- 16<i>oz</i> Lobster Stock
+- 2 <i>Cup</i> Heavy Cream
+- 1/4 <i>Cup</i> Brandy
+- 1 <i>Cup</i> White Wine
+- 2 <i>Cup</i> Sherry
+ 
+### Spices
+- 6 <i>TBSP</i> Flour
+- 3 <i>TSP</i> Paprika
+- 1 <i>TSP</i> Cayenne
+- 6 Bay Leaves
+</details>
+
+## Preparation
+ 
+## Cooking
+ 
